@@ -4,16 +4,16 @@ This repository contains machine learning and artificial intelligence projects i
 
 ## Projects
 
-### Linear and Ridge Regression from Scratch
+### linear-ridge-regression-scratch.ipynb
 Implementation of regression models using optimization algorithms built manually with NumPy.
 
 **Key concepts:**
 - Linear Regression
 - Batch Gradient Descent
 - Stochastic Gradient Descent (SGD)
-- Ridge Regression (L2 regularization)
+- Ridge Regression
 
-### Deep Learning from Scratch 
+### deep-learning-from-scratch.py 
 Object-oriented implementation of a Multilayer Perceptron neural network created entirely from scratch.
 
 **Key concepts:**
@@ -24,7 +24,7 @@ Object-oriented implementation of a Multilayer Perceptron neural network created
 - Cross-Entropy loss
 - Mini-batch training and learning rate decay
 
-### Connect Four AI — Alpha-Beta Pruning
+### connect4-alphabeta.py
 Interactive Connect Four game featuring an AI opponent based on classical search algorithms.
 
 **Key concepts:**
@@ -33,7 +33,7 @@ Interactive Connect Four game featuring an AI opponent based on classical search
 - Heuristic evaluation functions
 - Game state search optimization
 
-### Connect Four AI — Monte Carlo Tree Search (MCTS)
+### connect4-MCTS.py
 Implementation of a Connect Four agent using Monte Carlo Tree Search.
 
 **Key concepts:**
